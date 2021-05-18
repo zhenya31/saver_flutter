@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "335057693364",
+    "project_id": "saver-327b1",
+    "storage_bucket": "saver-327b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335057693364:android:74451ca1043342f40ac5e1",
+        "android_client_info": {
+          "package_name": "com.example.saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335057693364-filpe6oq8ssbo4a6j7cmdfd2fcknfenp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaOyxqQVhs48ArJZKrZWPHSQYOZKIzPwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335057693364-filpe6oq8ssbo4a6j7cmdfd2fcknfenp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335057693364-rcf346t0vtk1iu0jc21e7l1g6jpr43ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

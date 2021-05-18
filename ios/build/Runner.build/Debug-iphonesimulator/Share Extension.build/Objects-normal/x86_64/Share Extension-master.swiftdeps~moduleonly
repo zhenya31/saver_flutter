@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "34b42476712aac0458172b7cec8bec89"
+build_time: [1619797121, 345951000]
+inputs:
+  "/Users/evgenijlasenko/AndroidStudioProjects/saver/ios/Share Extension/ShareViewController.swift": [1619797119, 618621799]
